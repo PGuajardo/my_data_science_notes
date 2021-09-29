@@ -1,12 +1,19 @@
-09-20-21
+##09-20-21
 Yesterdsy I learned about `WHERE` `LIMIT` `LIKE` OFFSET`, and on the side 
 I learned more about swift creation: such as creating view models for a list view!
 
-09-21-21
+##09-21-21
 Going to learn more about SQL (JOINS), yesrtday we went over GROUP BY and HAVING
 which will be usefull manupulating the data!
 
-09-23-21
+##09-23-21
 Learned and studied deeply about JOINS again, how left/right, and inner joins operated. 
 We went over the relationships (joins) section and covered the questions with our groups
 and will learn more about subqueries and their operations this 9/27th. 
+
+##09-29-21
+Today is the last day of SQL tools section, since the previous post we've covered more
+of the relationship types of joins, subqueries, and now we started creating our own temporary
+tables. Lastly today we are covering Case Statements for class using COUNT and subqueries within
+the case statements themselves. After this lesson today we'll be covering all of the lessons learned
+through the quiz the next day on the 30th this month!
